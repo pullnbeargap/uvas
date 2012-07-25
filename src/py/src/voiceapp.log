@@ -1,0 +1,23 @@
+2012-07-18 18:12:51,974|15596|140036981462784|voiceapp.py     |main            |  13|INFO    | Starting application uvas
+2012-07-18 18:14:10,814|15596|140036856375040|in_callhandler.py|setup           |   9|INFO    | ('127.0.0.1', 50072) connected
+2012-07-18 18:14:10,814|15596|140036856375040|in_callhandler.py|setup           |  12|INFO    | socket id is 5
+2012-07-18 18:14:10,822|15596|140036856375040|in_callhandler.py|setup           |  15|INFO    | new connection 1
+2012-07-18 18:15:52,027|15646|139663053965056|voiceapp.py     |main            |  13|INFO    | Starting application uvas
+2012-07-18 18:15:59,761|15646|139662928877312|in_callhandler.py|setup           |   9|INFO    | ('127.0.0.1', 50073) connected
+2012-07-18 18:15:59,761|15646|139662928877312|in_callhandler.py|setup           |  12|INFO    | socket id is 5
+2012-07-18 18:15:59,769|15646|139662928877312|in_callhandler.py|setup           |  15|INFO    | new connection 1
+2012-07-18 18:15:59,769|15646|139662928877312|in_callhandler.py|setup           |  20|INFO    | uuid bb65bb23-9068-461e-8e46-6eb017681e59 
+2012-07-18 18:16:11,693|15646|139662928877312|in_callhandler.py|setup           |   9|INFO    | ('127.0.0.1', 50074) connected
+2012-07-18 18:16:11,693|15646|139662928877312|in_callhandler.py|setup           |  12|INFO    | socket id is 5
+2012-07-18 18:16:11,701|15646|139662928877312|in_callhandler.py|setup           |  15|INFO    | new connection 1
+2012-07-18 18:16:11,701|15646|139662928877312|in_callhandler.py|setup           |  20|INFO    | uuid 8e66d83c-6785-47ef-89a8-8afbf24bf9c3 
+2012-07-18 18:18:07,649|15663|140045513668352|voiceapp.py                   |main            |  13|INFO    | Starting application uvas
+2012-07-18 18:19:07,357|15663|140045388580608|in_callhandler.py             |setup           |   9|INFO    | ('127.0.0.1', 50075) connected
+2012-07-18 18:19:07,358|15663|140045388580608|in_callhandler.py             |setup           |  12|INFO    | socket id is 5
+2012-07-18 18:19:07,365|15663|140045388580608|in_callhandler.py             |setup           |  15|INFO    | new connection 1
+2012-07-18 18:19:07,366|15663|140045388580608|in_callhandler.py             |setup           |  20|INFO    | uuid ae0b2698-5d22-4561-accd-f97d4dec59c2 
+2012-07-18 18:21:21,374|15678|140060231173888|voiceapp.py                   |main            |  13|INFO    | Starting application uvas
+2012-07-18 18:21:31,661|15678|140060106086144|in_callhandler.py             |setup           |   9|INFO    | ('127.0.0.1', 50076) connected
+2012-07-18 18:21:31,661|15678|140060106086144|in_callhandler.py             |setup           |  12|INFO    | socket id is 5
+2012-07-18 18:21:31,668|15678|140060106086144|in_callhandler.py             |setup           |  15|INFO    | new connection 1
+2012-07-18 18:21:31,669|15678|140060106086144|in_callhandler.py             |setup           |  20|INFO    | uuid 757c662e-8788-46e8-95a1-c9c265e1a879 
